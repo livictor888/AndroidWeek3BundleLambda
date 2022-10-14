@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BundleLambda</string>
+    <string name="please_enter_name">Please enter name</string>
+    <string name="please_enter_address">Please enter address</string>
+    <string name="please_enter_postal_code">Please enter postal code</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="textview">TextView</string>
+    <string name="please_enter_your_age">Please enter your age</string>
+    <string name="please_enter_your_gender">Please enter your gender</string>
+</resources>
